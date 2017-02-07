@@ -1,4 +1,10 @@
-# AngularTodo
+# ngGirls - TodoList 
+
+Implementing Todo-List App as a reference for the ngGirls workshop
+
+I was trying to be as close as possible to the tutorial:
+https://www.gitbook.com/book/ng-girls/todo-list-tutorial
+
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.
 
